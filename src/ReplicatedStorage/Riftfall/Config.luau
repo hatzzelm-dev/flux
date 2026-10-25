@@ -104,7 +104,7 @@ Config.Products = {
 		price = 149,
 	},
 	FluxPack = {
-		id = 0,
+		id = 3722236005,
 		kind = "product",
 		name = "Flux Pack",
 		description = "A fixed bundle of Flux.",
