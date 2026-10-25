@@ -1,0 +1,26 @@
+id,name,tier,weight,storm_weight
+spark,Spark,1,44,0
+haze,Haze,1,20,0
+dust,Dust Vein,1,10.5318127,0
+mist,Mist Rift,2,12.5,0
+ember,Ember Scar,2,6.6666667,0
+prism,Prism Tear,3,2.8571429,0
+aurora,Aurora Wisp,3,1.6666667,0
+static,Static Bloom,3,1,0
+glass,Glass Storm,4,0.4,0
+thunder,Thunder Scar,4,0.2,0
+nova,Nova Shard,4,0.1,0
+chrono,Chrono Wound,5,0.04,0
+gravity,Gravity Bloom,5,0.02,0
+mirror,Mirror Void,5,0.01,0
+horizon,Event Horizon,6,0.004,0
+crown,Hollow Crown,6,0.002,0
+starfall,Starfall Gate,6,0.001,0
+genesis,Genesis Tear,7,0.0004,0
+voidbloom,Void Bloom,7,0.0002,0
+riftwyrm,Riftwyrm,7,0.0001,0
+oblivion,Oblivion Rift,8,0.00001,0
+firstrift,The First Rift,8,0.000001,0
+stormglass,Stormglass,9,0,0.25
+thunderhead,Thunderhead,9,0,0.02
+eye,Eye of the Storm,9,0,0.0004

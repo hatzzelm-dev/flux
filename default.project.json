@@ -1,0 +1,33 @@
+{
+  "name": "Riftfall",
+  "tree": {
+    "$className": "DataModel",
+    "ReplicatedStorage": {
+      "$className": "ReplicatedStorage",
+      "Riftfall": {
+        "$path": "src/ReplicatedStorage/Riftfall"
+      }
+    },
+    "ServerScriptService": {
+      "$className": "ServerScriptService",
+      "Riftfall": {
+        "$path": "src/ServerScriptService/Riftfall"
+      }
+    },
+    "ServerStorage": {
+      "$className": "ServerStorage",
+      "World": {
+        "$path": "src/ServerStorage/World"
+      }
+    },
+    "StarterPlayer": {
+      "$className": "StarterPlayer",
+      "StarterPlayerScripts": {
+        "$className": "StarterPlayerScripts",
+        "RiftfallClient": {
+          "$path": "src/StarterPlayer/StarterPlayerScripts/RiftfallClient"
+        }
+      }
+    }
+  }
+}

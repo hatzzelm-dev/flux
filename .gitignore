@@ -1,0 +1,13 @@
+# Generated place file and balance report (py tools/build_place.py)
+out/
+
+# Python
+__pycache__/
+*.pyc
+
+# Local tooling downloads (rojo etc.)
+.tools/
+
+# OS
+.DS_Store
+Thumbs.db
